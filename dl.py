@@ -34,7 +34,7 @@ def info():
                                                                                                                                                                     
 
 
-				Visit Us for more Cool Stuff: https://onehack.us/
+				Rate me on Google: https://g.page/r/Cf4FLcwPgg4ZEAI/review
 
                 """)
 
